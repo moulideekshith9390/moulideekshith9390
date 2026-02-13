@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mouli Deekshith Edurugundla</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moulideekshith9390&label=Profile%20views&color=0e75b6&style=flat" alt="moulideekshith9390" /> </p>
-
-- 🔭 I’m currently **Pursuing my Masters Degree in Computer Science from Kent State University**
 
 - 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **Java, Python, JavaScript, React, HTML, CSS etc;**
 
-- 📫 How to reach me **moulideekshithedurugundla0@gmail.com**
+- 📫 How to reach me **mouliedurugundla01@gmail.com**
 
 - ⚡ Fun fact: **I Like Travelling and playing Cricket**
 
