@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moulideekshith9390&label=Profile%20views&color=0e75b6&style=flat" alt="moulideekshith9390" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Generative AI**
 
 - 💬 Ask me about **Java, Python, JavaScript, React, HTML, CSS etc;**
 
-- 📫 How to reach me **mouliedurugundla01@gmail.com**
+- 📫 How to reach me **moulideekshith2001@gmail.com**
 
 - ⚡ Fun fact: **I Like Travelling and playing Cricket**
 
